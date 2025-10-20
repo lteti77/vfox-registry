@@ -1,8 +1,0 @@
-[ 
-  {
-    "name": "node",
-    "description": "Node.js runtime",
-    "author": "",
-    "repo_url": "node/index.toml"
-  }
-]
